@@ -40,6 +40,7 @@ google-cloud-vision==3.7.4
 googleapis-common-protos==1.65.0
 grpcio==1.66.1
 grpcio-status==1.66.1
+gunicorn==23.0.0
 h11==0.14.0
 httpcore==1.0.5
 httpx==0.27.2
